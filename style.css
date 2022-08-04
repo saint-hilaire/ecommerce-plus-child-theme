@@ -15,3 +15,17 @@
 #page-site-header {
 	margin-bottom: 3%;
 }
+
+body, .header-default, .site-footer, .site-header, .menu {
+	background-color: #111 !important;
+}
+
+.wpcf7-form p label {
+	color: #eee;
+}
+.menu-item a {
+	color: #eee !important;
+}
+p {
+	color: #eee !important;
+}
